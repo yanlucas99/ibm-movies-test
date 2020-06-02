@@ -1,4 +1,4 @@
-package com.example.ibmtest;
+package main.java.com.example.ibmtest;
 
 import java.util.LinkedList;
 
